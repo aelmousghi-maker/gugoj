@@ -1,0 +1,39 @@
+h1{
+    color: purple;
+}
+h2{
+    color: rgb(128, 51, 0);
+}
+h3{
+    color: rgb(47, 0, 128);
+}
+h4{
+    color: rgb(0, 107, 128);
+}
+h5{
+    color: rgb(0, 128, 0);
+}
+h6{
+    color: orange;
+}
+.PremierP{
+    color: aqua;
+}
+.DeuxiemeP{
+    color: brown;
+}
+.span1{
+    color: yellow;
+}
+.span2{
+    color: lime;
+}
+.img1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.img2{
+    width: 100px;
+    height: 100px;
+}
